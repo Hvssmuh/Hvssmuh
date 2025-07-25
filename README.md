@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I’m Muhammad Hussain
 
-<!--
-**Hvssmuh/Hvssmuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring IT technician with hands-on experience in PC builds, cloud collaboration, Excel-based apps, and technical support. Currently looking for a general IT apprenticeship.
 
-Here are some ideas to get you started:
+### 🔧 Projects:
+- Maths Game App (mobile)
+- PC Optimisation Scripts
+- Inventory & Sales Excel App
+- Access Database for Bookings
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 How to reach me:
+- [LinkedIn](https://www.linkedin.com/in/muhammad-hussain-2390ab374/)
+- Email: hvssmu@gmail.com
