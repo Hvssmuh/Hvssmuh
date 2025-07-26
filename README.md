@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Muhammad Hussain
 
-Aspiring IT technician with hands-on experience in PC builds, cloud collaboration, Excel-based apps, and technical support. Currently looking for a general IT apprenticeship.
+Aspiring IT technician with hands-on experience in PC builds, cloud collaboration, Excel-based apps, and technical support. Currently looking for a IT apprenticeship.
 
 ### 🔧 Projects:
 - Maths Game App (mobile)
